@@ -1,0 +1,5 @@
+slimevolleygym==0.4.1
+gym==0.21.0
+numpy>=1.19
+pygame==2.1.0
+
